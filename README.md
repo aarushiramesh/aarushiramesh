@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🏫 I'm an ECE student at UT Austin
+- 🏎️ I'm currently working on a hardware personal project!
+- ✍🏽 I like to sometimes write in a blog called Rushiblogs
+- 📇 How to reach out to me: aarushiramesh@utexas.edu
+
+### Thank you and have a great day :)
+
 <!--
 **aarushiramesh/aarushiramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

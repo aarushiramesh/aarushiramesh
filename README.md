@@ -1,11 +1,14 @@
-### Hi there 👋
-
+### Hello there 👋, I'm Aarushi
+--------------------------------------------------------------------------------------
 - 🏫 I'm an ECE student at UT Austin
 - 🏎️ I'm currently working on a hardware personal project!
 - ✍🏽 I like to sometimes write in a blog called Rushiblogs
 - 📇 How to reach out to me: aarushiramesh@utexas.edu
 
 ### Thank you and have a great day :)
+
+Thank you for being the 
+![Visitor Count](https://profile-counter.glitch.me/aarushiramesh/count.svg) random view of my Github profile. I appreciate it.
 
 <!--
 **aarushiramesh/aarushiramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
